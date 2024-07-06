@@ -9,7 +9,7 @@ When possible I will post a link to each controls source code.
 
 <a rel="noopener" target="_blank" href="#KnobControl">Knob Control
 
-<a rel="noopener" target="_blank" href="#ProgressbarPlusControl">Next Control
+<a rel="noopener" target="_blank" href="#ProgressbarPlusControl">Progressbar Control
 
 Some of these controls have been modified by me to include properties that I thought would improve the original code.
 
@@ -53,5 +53,8 @@ Usage is simple
 
 <a id="ProgressbarPlusControl"></a>
 
+Progressbar Plus offer both horizontal and vertical operations along with text for progress and many extras. This control was written in VB.net and Converted to C# by me. I will post the vbnet link and the converted link here.
+
+<a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
 
  
