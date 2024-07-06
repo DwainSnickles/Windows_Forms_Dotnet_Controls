@@ -5,7 +5,7 @@ This will take some time to complete I currently have around 12 controls and mor
 
 When possible I will post a link to each controls source code.
 
-<a href="#section-2">Jump to section 2</a><br>
+<a href="#Crop Control Source Code">Click here to see the content below.</a>
 
 Some of these controls have been modified by me to include properties that I thought would improve the original code.
 <a href="https://www.programiz.com" target="_blank">section-2</a>
@@ -36,3 +36,4 @@ Usage is simple
      ControlrectPicturebox.SetControl(this.picCrop);
 
  }</code>
+ 
