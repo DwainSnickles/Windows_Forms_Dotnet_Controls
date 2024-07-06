@@ -8,6 +8,7 @@ When possible I will post a link to each controls source code.
 <a id="Top"></a>
 
 <a rel="noopener" target="_blank" href="#KnobControl">Knob Control
+<a rel="noopener" target="_blank" href="#NextControl">Next Control
 
 Some of these controls have been modified by me to include properties that I thought would improve the original code.
 
@@ -47,7 +48,9 @@ Usage is simple
 
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/5a12fe76-5db4-4fe5-9c2f-0fc3a6ef5535)
 
+<a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
 
+<a id="NextControlControl"></a>
 
 
  
