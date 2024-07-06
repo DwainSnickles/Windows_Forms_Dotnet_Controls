@@ -38,7 +38,7 @@ Usage is simple
 
  }</code>
 
-<a rel="noopener" target="_blank" href="#Top">Click here
+<a rel="noopener" target="_blank" href="#Top">
 <a id="facebook_ads_example">Back To Top.</a>
 
  #Control 2
