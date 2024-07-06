@@ -12,3 +12,22 @@ Some of these controls have been modified by me to include properties that I tho
 2) <mark><b>Screenshot</mark></b>
    
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/033bead5-bd0c-4ff4-8140-e39563f6e9b4)
+
+Usage is simple 
+ ControlCrop ControlrectPanel;
+
+ public frmCrop()
+ {
+     InitializeComponent();
+
+     //Set crop control for each control that requires cropping
+
+     //Set the Control in this case panel to add crop rectangle
+     ControlrectPanel = new ControlCrop(pnlCrop);
+     ControlrectPanel.SetControl(this.pnlCrop);
+
+     //Set the Control in this case Picturebox to add crop rectangle
+     ControlrectPicturebox = new ControlCrop(picCrop);
+     ControlrectPicturebox.SetControl(this.picCrop);
+
+ }
