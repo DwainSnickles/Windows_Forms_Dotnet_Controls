@@ -6,7 +6,8 @@ This will take some time to complete I currently have around 12 controls and mor
 When possible I will post a link to each controls source code.
 
 <a id="Top"></a>
-<!--<a rel="noopener" target="_blank" href="#facebook_ads_example">Click here  -->
+
+<a rel="noopener" target="_blank" href="#Next Control">Next Control
 
 Some of these controls have been modified by me to include properties that I thought would improve the original code.
 
@@ -39,7 +40,7 @@ Usage is simple
  }</code>
 
 <a rel="noopener" target="_blank" href="#Top">Back To Controls </a>
-<!--<a id="facebook_ads_example">Back To Top.</a>-->
+<a id="Next Control">Back To Top.</a>
 
 
  
