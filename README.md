@@ -14,7 +14,7 @@ Some of these controls have been modified by me to include properties that I tho
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/033bead5-bd0c-4ff4-8140-e39563f6e9b4)
 
 Usage is simple 
- ControlCrop ControlrectPanel;
+<code> ControlCrop ControlrectPanel;
 
  public frmCrop()
  {
@@ -30,4 +30,4 @@ Usage is simple
      ControlrectPicturebox = new ControlCrop(picCrop);
      ControlrectPicturebox.SetControl(this.picCrop);
 
- }
+ }</code>
