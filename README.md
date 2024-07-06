@@ -9,7 +9,7 @@ When possible I will post a link to each controls source code.
 
 <a rel="noopener" target="_blank" href="#KnobControl">Knob Control
 
-<a rel="noopener" target="_blank" href="#NextControl">Next Control
+<a rel="noopener" target="_blank" href="#ProgressbarPlusControl">Next Control
 
 Some of these controls have been modified by me to include properties that I thought would improve the original code.
 
@@ -51,7 +51,7 @@ Usage is simple
 
 <a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
 
-<a id="NextControlControl"></a>
+<a id="ProgressbarPlusControl"></a>
 
 
  
