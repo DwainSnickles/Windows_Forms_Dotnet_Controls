@@ -39,8 +39,8 @@ Usage is simple
 
  }</code>
 
-<a rel="noopener" target="_blank" href="#Top">Back To Controls </a>
-<a id="Next Control">Back To Top.</a>
+<a rel="noopener" target="_blank" href="#Top"></a>
+<a id="Next Control"></a>
 
 
  
