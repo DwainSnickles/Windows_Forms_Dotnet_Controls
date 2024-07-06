@@ -1,6 +1,8 @@
 z# Windows Forms Dotnet Control Collection
 Check back here often this is a work in progress here you will find many extened dotnet controls for win forms in one place.
 
+When completed my intention is to upload a list of dll files for each control so theycan be added to the toolbox.
+
 This will take some time to complete I currently have around 12 controls and more to come.
 
 When possible I will post a link to each controls source code.
