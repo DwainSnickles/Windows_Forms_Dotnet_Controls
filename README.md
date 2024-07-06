@@ -39,7 +39,7 @@ Usage is simple
 
  }</code>
 
-<a rel="noopener" target="_blank" href="#Top"></a>
+<a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
 <a id="NextControl"></a>
 
 
