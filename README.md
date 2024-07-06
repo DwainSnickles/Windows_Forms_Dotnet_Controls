@@ -7,7 +7,7 @@ When possible I will post a link to each controls source code.
 
 <a id="Top"></a>
 
-<a rel="noopener" target="_blank" href="#NextControl">Next Control
+<a rel="noopener" target="_blank" href="#KnobControl">Knob Control
 
 Some of these controls have been modified by me to include properties that I thought would improve the original code.
 
@@ -40,7 +40,14 @@ Usage is simple
  }</code>
 
 <a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
-<a id="NextControl"></a>
+<a id="KnobControl"></a>
+
+3) Knob Control is a Circular knob with inrements fully customizable.
+4) <mark><b> [Knob Control Source Code]: [https://www.mozilla.orghttp://www.reddit.com https://github.com/DwainSnickles/ControlCrop](https://www.c-sharpcorner.com/article/knob-control-using-windows-forms-and-gdi/) </b></mark>
+
+![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/5a12fe76-5db4-4fe5-9c2f-0fc3a6ef5535)
+
+
 
 
  
