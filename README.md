@@ -15,7 +15,9 @@ Some of these controls have been modified by me to include properties that I tho
 
 Usage is simple 
 
-<code> ControlCrop ControlrectPanel;
+<code>Create an instance of the crop class in form
+
+ ControlCrop ControlrectPanel;
 
  public frmCrop()
  {
