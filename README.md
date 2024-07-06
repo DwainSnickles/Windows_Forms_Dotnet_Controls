@@ -6,3 +6,6 @@ This will take some time to complete I currently have around 12 controls and mor
 When possible I will post a link to each controls source code.
 
 Some of these controls have been modified by me to include properties that I thought would improve the original code.
+
+[Crop Control Source Code]: https://www.mozilla.orghttp://www.reddit.com https://github.com/DwainSnickles/ControlCrop
+1) My cropper Control the idea was to be able to add a crop control from the toolbpox. I was sucessful in adding it to the form but not as a toolbox control. Problem wwas as I found out a control in the toolbox must not contain any parameters in my case I wanted to pass any control. Second problem was I could add the cotrol but it wasnt trasnparent. I,ll be working on that if anyoe has any ideas drop me a note.
