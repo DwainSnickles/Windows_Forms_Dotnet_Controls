@@ -55,6 +55,10 @@ Usage is simple
 
 Progressbar Plus offer both horizontal and vertical operations along with text for progress and many extras. This control was written in VB.net and Converted to C# by me. I will post the vbnet link and the converted link here.
 
+<mark><b> [Progressbar Plus Source Code]: [https://www.mozilla.orghttp://www.reddit.com https://github.com/DwainSnickles/ControlCrop](https://www.codeproject.com/articles/26518/custom-progressbar-control) </b></mark>
+
+![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/6e9f4aa0-b5b7-4acc-8b50-566d56a6a437)
+
 <a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
 
  
