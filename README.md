@@ -19,6 +19,8 @@ When possible I will post a link to each controls source code.
 
 <a rel="noopener" target="_blank" href="#ToggleSwitch"> 5) Toggle Switch
 
+<a rel="noopener" target="_blank" href="#XPPanel"> 5) Toggle Switch
+
 Some of these controls have been modified by me to include properties that I thought would improve the original code.
 
 <mark><b> [Crop Control Source Code]: https://www.mozilla.orghttp://www.reddit.com https://github.com/DwainSnickles/ControlCrop </b></mark>
@@ -58,6 +60,13 @@ Usage is simple
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/5a12fe76-5db4-4fe5-9c2f-0fc3a6ef5535)
 
 <a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
+
+<a id="XPPanel"></a>
+
+![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/89970a00-e286-49b6-8055-8f5684df890d)
+
+<a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
+
 
 <a id="ProgressbarPlusControl"></a>
 
