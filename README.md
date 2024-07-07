@@ -123,7 +123,7 @@ Color Sluder control is a cool
 
 <a id="ColorPickerControl"></a>
 
-<mark><b> [Color Picker Source Code]: [[[link](https://www.codeproject.com/Articles/21965/Color-Picker-with-Color-Wheel-and-Eye-Dropper))) </b></mark>
+<mark><b> [Color Picker Source Code]: [[[](https://www.codeproject.com/Articles/21965/Color-Picker-with-Color-Wheel-and-Eye-Dropper))) </b></mark>
 
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/5127d328-0a44-4f96-9cc6-69ab54888378)
 
