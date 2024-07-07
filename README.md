@@ -9,14 +9,9 @@ When possible I will post a link to each controls source code.
 
 If you have any suggestions for Free Controls with source code that you think is usefull and should be added to the list email me <a href="mailto:dwainsnickles@hotmail.com">Send Email</a>
 
+<mark><b> [Knob Control Source Code]: [https://www.paypal.com/donate/?hosted_button_id=AG9C7PHHDWEXC) </b></mark>
+
 To keep this project going with update and future control and would like to donate 
-
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="hosted_button_id" value="AG9C7PHHDWEXC" />
-<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
-
 
 <a id="Top"></a>
 
@@ -68,7 +63,7 @@ Usage is simple
 <a id="KnobControl"></a>
 
 3) Knob Control is a Circular knob with inrements fully customizable.
-4) <mark><b> [Knob Control Source Code]: [https://www.mozilla.orghttp://www.reddit.com https://github.com/DwainSnickles/ControlCrop](https://www.c-sharpcorner.com/article/knob-control-using-windows-forms-and-gdi/) </b></mark>
+4) <mark><b> [Knob Control Source Code]: [https://www.c-sharpcorner.com/article/knob-control-using-windows-forms-and-gdi/) </b></mark>
 
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/5a12fe76-5db4-4fe5-9c2f-0fc3a6ef5535)
 
