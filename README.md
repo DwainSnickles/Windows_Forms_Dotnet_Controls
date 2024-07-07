@@ -13,7 +13,9 @@ When possible I will post a link to each controls source code.
 
 <a rel="noopener" target="_blank" href="#ProgressbarPlusControl"> 2) Progressbar Control
 
-<a rel="noopener" target="_blank" href="#ColorSlderControl"> 2) Slider Control
+<a rel="noopener" target="_blank" href="#ColorSlderControl"> 3) Slider Control
+
+<a rel="noopener" target="_blank" href="#theGrouper"> 4) Groupbox with tons of features Control
 
 Some of these controls have been modified by me to include properties that I thought would improve the original code.
 
@@ -74,5 +76,10 @@ Color Sluder control is a cool
 
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/8d8b0084-c8d0-4846-aedc-a4ff25885485)
 
+<a id="thrGrouper"></a>
 
- 
+4) <mark><b> [Grouper Groupbox Source Code]: [[https://www.mozilla.orghttp://www.reddit.com https://github.com/DwainSnickles/ControlCrop](https://www.c-sharpcorner.com/article/knob-control-using-windows-forms-and-gdi/](https://www.codeproject.com/Articles/12421/The-Grouper-A-Custom-Groupbox-Control)) </b></mark>
+
+![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/2b7e06a3-dd31-4f36-9c9c-62b54d362c8d)
+
+<a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
