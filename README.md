@@ -13,6 +13,8 @@ When possible I will post a link to each controls source code.
 
 <a rel="noopener" target="_blank" href="#ProgressbarPlusControl"> 2) Progressbar Control
 
+<a rel="noopener" target="_blank" href="#ColorSlderControl"> 2) Slider Control
+
 Some of these controls have been modified by me to include properties that I thought would improve the original code.
 
 <mark><b> [Crop Control Source Code]: https://www.mozilla.orghttp://www.reddit.com https://github.com/DwainSnickles/ControlCrop </b></mark>
@@ -63,5 +65,14 @@ Progressbar Plus offer both horizontal and vertical operations along with text f
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/6e9f4aa0-b5b7-4acc-8b50-566d56a6a437)
 
 <a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
+
+<a id="ColorSlderControl"></a>
+
+Color Sluder control is a cool
+
+<mark><b> [Slider Control Source Code]: [https://www.mozilla.orghttp://www.reddit.com https://github.com/DwainSnickles/ControlCrop](https://github.com/fabricelacharme/ColorSlider) </b></mark>
+
+![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/8d8b0084-c8d0-4846-aedc-a4ff25885485)
+
 
  
