@@ -78,7 +78,7 @@ Color Sluder control is a cool
 
 <a id="thrGrouper"></a>
 
-4) <mark><b> [Grouper Groupbox Source Code]: [[https://www.mozilla.orghttp://www.reddit.com https://github.com/DwainSnickles/ControlCrop](https://www.c-sharpcorner.com/article/knob-control-using-windows-forms-and-gdi/](https://www.codeproject.com/Articles/12421/The-Grouper-A-Custom-Groupbox-Control)) </b></mark>
+4) <mark><b> [Grouper Groupbox Source Code]: [(https://www.codeproject.com/Articles/12421/The-Grouper-A-Custom-Groupbox-Control))] </b></mark>
 
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/2b7e06a3-dd31-4f36-9c9c-62b54d362c8d)
 
