@@ -33,7 +33,7 @@ To keep this project going with update and future control and would like to dona
 
 <a rel="noopener" target="_blank" href="#TextEditorControl"> 9) A Full Featured Editor Based on the Richtext Box
 
-<a rel="noopener" target="_blank" href="#CustomPanelControl"> 10) Panel wth 3d graphics plus allows individual corners to be rounded
+<a rel="noopener" target="_blank" href="#CustomPanelControl"> 10) Panel wth 3d graphics plus allows individual corners to be rounded. Link includes both VB.Net and C#.
 
 Some of these controls have been modified by me to include properties that I thought would improve the original code.
 
