@@ -9,7 +9,7 @@ When possible I will post a link to each controls source code.
 
 If you have any suggestions for Free Controls with source code that you think is usefull and should be added to the list email me <a href="mailto:dwainsnickles@hotmail.com">Send Email</a>
 
-<mark><b> [Knob Control Source Code]: [https://www.paypal.com/donate/?hosted_button_id=AG9C7PHHDWEXC) </b></mark>
+<mark><b> [Donations Appreciated To Help Keep this project going]: [https://www.paypal.com/donate/?hosted_button_id=AG9C7PHHDWEXC) </b></mark>
 
 To keep this project going with update and future control and would like to donate 
 
