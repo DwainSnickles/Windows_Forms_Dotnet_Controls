@@ -29,9 +29,9 @@ To keep this project going with update and future control and would like to dona
 
 <a rel="noopener" target="_blank" href="#ColorComboBox"> 7) Color ComboBox
 
-<a rel="noopener" target="_blank" href="#ColorPickerControl"> 7) Color Picker Control
+<a rel="noopener" target="_blank" href="#ColorPickerControl"> 8) Color Picker Control
 
-<a rel="noopener" target="_blank" href="#TextEditorControl"> 7) A Full Featured Editor Based on the Richtext Box
+<a rel="noopener" target="_blank" href="#TextEditorControl"> 9) A Full Featured Editor Based on the Richtext Box
 
 Some of these controls have been modified by me to include properties that I thought would improve the original code.
 
@@ -131,7 +131,7 @@ Color Sluder control is a cool
 
 <a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
 
-<a id="TextEditorCotrol"></a>
+<a id="TextEditorControl"></a>
 
 <mark><b> [Text Editor Source Code]: [[[https://www.codeproject.com/Articles/1191753/A-Full-Featured-Editor-Based-on-the-Richtext-Box-3))) </b></mark>
 
