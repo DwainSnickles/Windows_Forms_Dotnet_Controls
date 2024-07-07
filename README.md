@@ -21,7 +21,7 @@ When possible I will post a link to each controls source code.
 
 <a rel="noopener" target="_blank" href="#XPPanel"> 5) XP Panel
 
-<a rel="noopener" target="_blank" href="#ColorComboBox"> 5) XP Panel
+<a rel="noopener" target="_blank" href="#ColorComboBox"> 5) Color ComboBox
 
 Some of these controls have been modified by me to include properties that I thought would improve the original code.
 
@@ -105,7 +105,7 @@ Color Sluder control is a cool
 
 <a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
 
-<a id="ColorConboBox"></a>
+<a id="ColorComboBox"></a>
 
 <mark><b> [Color Combobox Source Code]: [[https://www.codeproject.com/articles/34332/color-picker-combo-box-2)) </b></mark>
 
