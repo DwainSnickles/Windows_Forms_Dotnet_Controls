@@ -19,9 +19,9 @@ When possible I will post a link to each controls source code.
 
 <a rel="noopener" target="_blank" href="#ToggleSwitch"> 5) Toggle Switch
 
-<a rel="noopener" target="_blank" href="#XPPanel"> 5) XP Panel
+<a rel="noopener" target="_blank" href="#XPPanel"> 6) XP Panel
 
-<a rel="noopener" target="_blank" href="#ColorComboBox"> 5) Color ComboBox
+<a rel="noopener" target="_blank" href="#ColorComboBox"> 7) Color ComboBox
 
 Some of these controls have been modified by me to include properties that I thought would improve the original code.
 
