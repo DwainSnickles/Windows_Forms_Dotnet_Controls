@@ -7,6 +7,17 @@ This will take some time to complete I currently have around 12 controls and mor
 
 When possible I will post a link to each controls source code.
 
+If you have any suggestions for Free Controls with source code that you think is usefull and should be added to the list email me <a href="mailto:dwainsnickles@hotmail.com">Send Email</a>
+
+To keep this project going with update and future control and would like to donate 
+
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="AG9C7PHHDWEXC" />
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
+
 <a id="Top"></a>
 
 <a rel="noopener" target="_blank" href="#KnobControl"> 1) Knob Control
