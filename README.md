@@ -76,7 +76,7 @@ Color Sluder control is a cool
 
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/8d8b0084-c8d0-4846-aedc-a4ff25885485)
 
-<a id="thrGrouper"></a>
+<a id="theGrouper"></a>
 
 4) <mark><b> [Slider Control Source Code]: [https://www.codeproject.com/Articles/12421/The-Grouper-A-Custom-Groupbox-Control) </b></mark>
 
