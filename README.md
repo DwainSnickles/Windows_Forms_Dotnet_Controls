@@ -143,6 +143,8 @@ Color Sluder control is a cool
 
 <a id="CustomPanelControl"></a>
 
+<mark><b> [Text Editor Source Code]: [[[[https://www.codeproject.com/Articles/1191753/A-Full-Featured-Editor-Based-on-the-Richtext-Box-3](https://www.codeproject.com/articles/7641/customising-the-net-panel-control)))) </b></mark>
+
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/9b5b767f-7867-4103-b3c8-dc2ecd9bf7d8)
 
 <a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
@@ -151,6 +153,7 @@ Color Sluder control is a cool
 
 <a id="ColorPickerCotrol"></a>
 
+<mark><b> [Text Editor Source Code]: [[[https://www.codeproject.com/Articles/1191753/A-Full-Featured-Editor-Based-on-the-Richtext-Box-3))) </b></mark>
 <mark><b> [Color Picker Source Code]: [[link)) </b></mark>
 
 image
