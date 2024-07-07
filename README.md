@@ -131,7 +131,7 @@ Color Sluder control is a cool
 
 
 
-
+<---
 <a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
 
 <a id="ColorPickerCotrol"></a>
@@ -141,4 +141,5 @@ Color Sluder control is a cool
 image
 
 <a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
+-->
 
