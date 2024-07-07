@@ -31,6 +31,8 @@ To keep this project going with update and future control and would like to dona
 
 <a rel="noopener" target="_blank" href="#ColorPickerControl"> 7) Color Picker Control
 
+<a rel="noopener" target="_blank" href="#TextEditorControl"> 7) A Full Featured Editor Based on the Richtext Box
+
 Some of these controls have been modified by me to include properties that I thought would improve the original code.
 
 <mark><b> [Crop Control Source Code]: https://www.mozilla.orghttp://www.reddit.com https://github.com/DwainSnickles/ControlCrop </b></mark>
@@ -129,10 +131,17 @@ Color Sluder control is a cool
 
 <a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
 
+<a id="TextEditorCotrol"></a>
+
+<mark><b> [Text Editor Source Code]: [[[https://www.codeproject.com/Articles/1191753/A-Full-Featured-Editor-Based-on-the-Richtext-Box-3))) </b></mark>
+
+![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/eaf25811-8960-4f65-91d8-5d4183b6a940)
+
+<a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
+
 
 
 <!--
-<a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
 
 <a id="ColorPickerCotrol"></a>
 
