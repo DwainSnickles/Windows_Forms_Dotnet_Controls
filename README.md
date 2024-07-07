@@ -17,6 +17,8 @@ When possible I will post a link to each controls source code.
 
 <a rel="noopener" target="_blank" href="#theGrouper"> 4) Groupbox with nice features
 
+<a rel="noopener" target="_blank" href="#ToggleSwitch"> 4) Tpggle Switch
+
 Some of these controls have been modified by me to include properties that I thought would improve the original code.
 
 <mark><b> [Crop Control Source Code]: https://www.mozilla.orghttp://www.reddit.com https://github.com/DwainSnickles/ControlCrop </b></mark>
@@ -83,3 +85,10 @@ Color Sluder control is a cool
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/2b7e06a3-dd31-4f36-9c9c-62b54d362c8d)
 
 <a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
+
+<a id="ToggleSwitch"></a>
+
+<mark><b> [Toggle Switch Source Code]: [[https://www.codeproject.com/Articles/12421/The-Grouper-A-Custom-Groupbox-Control](https://github.com/ejensen/toggle-switch-control)) </b></mark>
+
+![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/c51a732e-ea05-485e-8388-14bc5e003b83)
+
