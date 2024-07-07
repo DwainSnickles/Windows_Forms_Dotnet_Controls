@@ -17,7 +17,7 @@ When possible I will post a link to each controls source code.
 
 <a rel="noopener" target="_blank" href="#theGrouper"> 4) Groupbox with nice features
 
-<a rel="noopener" target="_blank" href="#ToggleSwitch"> 4) Tpggle Switch
+<a rel="noopener" target="_blank" href="#ToggleSwitch"> 4) Toggle Switch
 
 Some of these controls have been modified by me to include properties that I thought would improve the original code.
 
