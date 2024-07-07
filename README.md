@@ -29,7 +29,7 @@ To keep this project going with update and future control and would like to dona
 
 <a rel="noopener" target="_blank" href="#ColorComboBox"> 7) Color ComboBox
 
-<a rel="noopener" target="_blank" href="#ColorPicker"> 7) Color Picker Control
+<a rel="noopener" target="_blank" href="#ColorPickerControl"> 7) Color Picker Control
 
 Some of these controls have been modified by me to include properties that I thought would improve the original code.
 
@@ -121,7 +121,7 @@ Color Sluder control is a cool
 
 <a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
 
-<a id="ColorPickerCotrol"></a>
+<a id="ColorPickerControl"></a>
 
 <mark><b> [Color Picker Source Code]: [[[link](https://www.codeproject.com/Articles/21965/Color-Picker-with-Color-Wheel-and-Eye-Dropper))) </b></mark>
 
