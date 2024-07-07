@@ -92,3 +92,6 @@ Color Sluder control is a cool
 
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/c51a732e-ea05-485e-8388-14bc5e003b83)
 
+<a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
+
+
