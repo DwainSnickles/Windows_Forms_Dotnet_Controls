@@ -29,6 +29,8 @@ To keep this project going with update and future control and would like to dona
 
 <a rel="noopener" target="_blank" href="#ColorComboBox"> 7) Color ComboBox
 
+<a rel="noopener" target="_blank" href="#ColorPicker"> 7) Color Picker Control
+
 Some of these controls have been modified by me to include properties that I thought would improve the original code.
 
 <mark><b> [Crop Control Source Code]: https://www.mozilla.orghttp://www.reddit.com https://github.com/DwainSnickles/ControlCrop </b></mark>
@@ -116,6 +118,27 @@ Color Sluder control is a cool
 <mark><b> [Color Combobox Source Code]: [[https://www.codeproject.com/articles/34332/color-picker-combo-box-2)) </b></mark>
 
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/bfcb9df2-9296-4f7c-abd9-2f0e5664b0bc)
+
+<a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
+
+<a id="ColorPickerCotrol"></a>
+
+<mark><b> [Color Picker Source Code]: [[[link](https://www.codeproject.com/Articles/21965/Color-Picker-with-Color-Wheel-and-Eye-Dropper))) </b></mark>
+
+![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/5127d328-0a44-4f96-9cc6-69ab54888378)
+
+<a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
+
+
+
+
+<a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
+
+<a id="ColorPickerCotrol"></a>
+
+<mark><b> [Color Picker Source Code]: [[link)) </b></mark>
+
+image
 
 <a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
 
