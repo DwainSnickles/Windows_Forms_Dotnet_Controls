@@ -35,7 +35,7 @@ To keep this project going with update and future control and would like to dona
 
 <a rel="noopener" target="_blank" href="#CustomPanelControl"> 10) Panel wth 3d graphics plus allows individual corners to be rounded. Link includes both VB.Net and C#.
 
-<a rel="noopener" target="_blank" href="#ExpandabePanelControl"> 11) expandable and colapsable panel control.
+<a rel="noopener" target="_blank" href="#ExpandabePanelControl"> 11) Expandable and colapsable panel control.
 
 Some of these controls have been modified by me to include properties that I thought would improve the original code.
 
@@ -82,7 +82,6 @@ Usage is simple
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/89970a00-e286-49b6-8055-8f5684df890d)
 
 <a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
-
 
 <a id="ProgressbarPlusControl"></a>
 
@@ -156,6 +155,11 @@ Color Sluder control is a cool
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/06bfd9ef-7d24-44ec-83dd-d9592299f72c)
 
 <a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
+
+
+
+
+
 
 
 <!--
