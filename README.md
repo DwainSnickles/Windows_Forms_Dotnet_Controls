@@ -35,6 +35,8 @@ To keep this project going with update and future control and would like to dona
 
 <a rel="noopener" target="_blank" href="#CustomPanelControl"> 10) Panel wth 3d graphics plus allows individual corners to be rounded. Link includes both VB.Net and C#.
 
+<a rel="noopener" target="_blank" href="#ExpandabePanelControl"> 10) expandable and colapsable panel control.
+
 Some of these controls have been modified by me to include properties that I thought would improve the original code.
 
 <mark><b> [Crop Control Source Code]: https://www.mozilla.orghttp://www.reddit.com https://github.com/DwainSnickles/ControlCrop </b></mark>
@@ -148,6 +150,13 @@ Color Sluder control is a cool
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/9b5b767f-7867-4103-b3c8-dc2ecd9bf7d8)
 
 <a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
+
+<a id="ExpandabePanelControl"></a>
+
+![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/06bfd9ef-7d24-44ec-83dd-d9592299f72c)
+
+<a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
+
 
 <!--
 
