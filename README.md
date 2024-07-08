@@ -39,7 +39,7 @@ To keep this project going with update and future control and would like to dona
 
 <a rel="noopener" target="_blank" href="#GlassButtonControl"> 12) 3d Glass button control.
 
-<a rel="noopener" target="_blank" href="#TrackbarControl"> 12) Advanced TrackBar (Slider) Control with MAC Style (C# & VB.NET).
+<a rel="noopener" target="_blank" href="#TrackbarControl"> 13) Advanced TrackBar (Slider) Control with MAC Style (C# & VB.NET).
 
 Some of these controls have been modified by me to include properties that I thought would improve the original code.
 
@@ -170,7 +170,7 @@ Color Sluder control is a cool
 
 <a id="TrackbarControl"></a>
 
-<mark><b> [Text Editor Source Code]: [[[https://www.codeproject.com/Articles/14378/Advanced-TrackBar-Slider-Control-with-MAC-Style-C))) </b></mark>
+<mark><b> [Text Editor Source Code]: [[[https://www.codeproject.com/Articles/14378/Advanced-TrackBar-Slider-Control-with-MAC-Style-C) </b></mark>
 
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/adfcd051-97cb-461b-93b5-b0e485042546)
 
