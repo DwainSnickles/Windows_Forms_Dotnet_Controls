@@ -37,6 +37,8 @@ To keep this project going with update and future control and would like to dona
 
 <a rel="noopener" target="_blank" href="#ExpandabePanelControl"> 11) Expandable and colapsable panel control.
 
+<a rel="noopener" target="_blank" href="#GlassButtonControl"> 12) 3d glass button control.
+
 Some of these controls have been modified by me to include properties that I thought would improve the original code.
 
 <mark><b> [Crop Control Source Code]: https://www.mozilla.orghttp://www.reddit.com https://github.com/DwainSnickles/ControlCrop </b></mark>
@@ -156,10 +158,13 @@ Color Sluder control is a cool
 
 <a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
 
+<a id="GlassButtonControl"></a>
 
+<mark><b> [Text Editor Source Code]: [[[https://www.codeproject.com/articles/18000/enhanced-glassbutton-using-gdi))) </b></mark>
 
+![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/6d655243-fa99-496d-aa3d-cbc9618f52c0)
 
-
+<a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
 
 
 <!--
