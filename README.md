@@ -35,7 +35,7 @@ To keep this project going with update and future control and would like to dona
 
 <a rel="noopener" target="_blank" href="#CustomPanelControl"> 10) Panel wth 3d graphics plus allows individual corners to be rounded. Link includes both VB.Net and C#.
 
-<a rel="noopener" target="_blank" href="#ExpandabePanelControl"> 10) expandable and colapsable panel control.
+<a rel="noopener" target="_blank" href="#ExpandabePanelControl"> 11) expandable and colapsable panel control.
 
 Some of these controls have been modified by me to include properties that I thought would improve the original code.
 
@@ -162,7 +162,7 @@ Color Sluder control is a cool
 
 <a id="ColorPickerCotrol"></a>
 
-<mark><b> [Text Editor Source Code]: [[[https://www.codeproject.com/Articles/1191753/A-Full-Featured-Editor-Based-on-the-Richtext-Box-3))) </b></mark>
+<mark><b> [Text Editor Source Code]: [[[https://github.com/alexander-makarov/ExpandCollapsePanel/tree/master))) </b></mark>
 <mark><b> [Color Picker Source Code]: [[link)) </b></mark>
 
 image
