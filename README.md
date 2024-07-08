@@ -15,7 +15,7 @@ To keep this project going with update and future control and would like to dona
 
 <a id="Top"></a>
 
-<a rel="noopener" target="_blank" href="#CropControl"> 1) Add a crop control to any control
+<a rel="noopener" target="_blank" href="#CropControl"> 0) Add a crop control to any control
 
 <a rel="noopener" target="_blank" href="#KnobControl"> 1) Knob Control
 
