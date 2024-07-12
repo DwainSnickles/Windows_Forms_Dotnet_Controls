@@ -15,33 +15,33 @@ To keep this project going with update and future control and would like to dona
 
 <a id="Top"></a>
 
-<a rel="noopener" target="_blank" href="#CropControl"> 0) Add a crop control to any control
+<a rel="noopener" target="_blank" href="#CropControl"> 1) Add a crop control to any control
 
-<a rel="noopener" target="_blank" href="#KnobControl"> 1) Knob Control
+<a rel="noopener" target="_blank" href="#KnobControl"> 2) Knob Control
 
-<a rel="noopener" target="_blank" href="#ProgressbarPlusControl"> 2) Progressbar Control
+<a rel="noopener" target="_blank" href="#ProgressbarPlusControl"> 3) Progressbar Control
 
-<a rel="noopener" target="_blank" href="#ColorSlderControl"> 3) Slider Control
+<a rel="noopener" target="_blank" href="#ColorSlderControl"> 4) Slider Control
 
-<a rel="noopener" target="_blank" href="#theGrouper"> 4) Groupbox with nice features
+<a rel="noopener" target="_blank" href="#theGrouper"> 5) Groupbox with nice features
 
-<a rel="noopener" target="_blank" href="#ToggleSwitch"> 5) Toggle Switch
+<a rel="noopener" target="_blank" href="#ToggleSwitch"> 6) Toggle Switch
 
-<a rel="noopener" target="_blank" href="#XPPanel"> 6) XP Panel
+<a rel="noopener" target="_blank" href="#XPPanel"> 7) XP Panel
 
-<a rel="noopener" target="_blank" href="#ColorComboBox"> 7) Color ComboBox
+<a rel="noopener" target="_blank" href="#ColorComboBox"> 8) Color ComboBox
 
-<a rel="noopener" target="_blank" href="#ColorPickerControl"> 8) Color Picker Control
+<a rel="noopener" target="_blank" href="#ColorPickerControl"> 9) Color Picker Control
 
-<a rel="noopener" target="_blank" href="#TextEditorControl"> 9) A Full Featured Editor Based on the Richtext Box
+<a rel="noopener" target="_blank" href="#TextEditorControl"> 10) A Full Featured Editor Based on the Richtext Box
 
-<a rel="noopener" target="_blank" href="#CustomPanelControl"> 10) Panel wth 3d graphics plus allows individual corners to be rounded. Link includes both VB.Net and C#.
+<a rel="noopener" target="_blank" href="#CustomPanelControl"> 11) Panel wth 3d graphics plus allows individual corners to be rounded. Link includes both VB.Net and C#.
 
-<a rel="noopener" target="_blank" href="#ExpandabePanelControl"> 11) Expandable and colapsable panel control.
+<a rel="noopener" target="_blank" href="#ExpandabePanelControl"> 12) Expandable and colapsable panel control.
 
-<a rel="noopener" target="_blank" href="#GlassButtonControl"> 12) 3d Glass button control.
+<a rel="noopener" target="_blank" href="#GlassButtonControl"> 13) 3d Glass button control.
 
-<a rel="noopener" target="_blank" href="#TrackbarControl"> 13) Advanced TrackBar (Slider) Control with MAC Style (C# & VB.NET).
+<a rel="noopener" target="_blank" href="#TrackbarControl"> 14) Advanced TrackBar (Slider) Control with MAC Style (C# & VB.NET).
 
 Some of these controls have been modified by me to include properties that I thought would improve the original code.
 <a id="CropControl"></a>
