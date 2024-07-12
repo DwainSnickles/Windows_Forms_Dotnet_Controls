@@ -76,14 +76,17 @@ Usage is simple
 <a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
 <a id="KnobControl"></a>
 
-3) Knob Control is a Circular knob with inrements fully customizable.
-4) <mark><b> [Knob Control Source Code]: [https://www.c-sharpcorner.com/article/knob-control-using-windows-forms-and-gdi/ </b></mark>
+3) Knob Control is a Circular knob with increments fully customizable.
+4) 
+5) <mark><b> [Knob Control Source Code]: [https://www.c-sharpcorner.com/article/knob-control-using-windows-forms-and-gdi/ </b></mark>
 
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/5a12fe76-5db4-4fe5-9c2f-0fc3a6ef5535)
 
 <a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
 
 <a id="XPPanel"></a>
+
+5) <mark><b> [XP Panel Source Code]: [(https://www.codeproject.com/Articles/7332/Full-featured-XP-Style-Collapsible-Panel </b></mark>
 
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/89970a00-e286-49b6-8055-8f5684df890d)
 
