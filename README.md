@@ -134,7 +134,7 @@ Color Sluder control is a cool
 
 <a id="ColorPickerControl"></a>
 
-<mark><b> [Color Picker Source Code]: [[[https://www.codeproject.com/articles/34332/color-picker-combo-box-2](https://www.codeproject.com/Articles/21965/Color-Picker-with-Color-Wheel-and-Eye-Dropper) </b></mark>
+<mark><b> [Color Picker Source Code]: [(https://www.codeproject.com/Articles/21965/Color-Picker-with-Color-Wheel-and-Eye-Dropper) </b></mark>
 
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/5127d328-0a44-4f96-9cc6-69ab54888378)
 
@@ -142,7 +142,7 @@ Color Sluder control is a cool
 
 <a id="TextEditorControl"></a>
 
-<mark><b> [Text Editor Source Code]: [[[https://www.codeproject.com/Articles/1191753/A-Full-Featured-Editor-Based-on-the-Richtext-Box-3))) </b></mark>
+<mark><b> [Text Editor Source Code]: [[[https://www.codeproject.com/Articles/1191753/A-Full-Featured-Editor-Based-on-the-Richtext-Box-3 </b></mark>
 
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/eaf25811-8960-4f65-91d8-5d4183b6a940)
 
