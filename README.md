@@ -77,7 +77,7 @@ Usage is simple
 <a id="KnobControl"></a>
 
 3) Knob Control is a Circular knob with inrements fully customizable.
-4) <mark><b> [Knob Control Source Code]: [https://www.c-sharpcorner.com/article/knob-control-using-windows-forms-and-gdi/) </b></mark>
+4) <mark><b> [Knob Control Source Code]: [https://www.c-sharpcorner.com/article/knob-control-using-windows-forms-and-gdi/ </b></mark>
 
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/5a12fe76-5db4-4fe5-9c2f-0fc3a6ef5535)
 
@@ -94,7 +94,7 @@ Usage is simple
 Progressbar Plus offer both horizontal and vertical operations along with text for progress and many extras. This control was written in VB.net and Converted to C# by me. I will post the vbnet link and the converted link here.
 
 <mark><b> [(VB.Net)Progressbar Plus Source Code]: [https://www.mozilla.orghttp://www.reddit.com https://github.com/DwainSnickles/ControlCrop](https://www.codeproject.com/articles/26518/custom-progressbar-control) </b></mark>
-<mark><b> [(Converted C# Version)Progressbar Plus Source Code]: [https://github.com/DwainSnickles/Progbar-Plus/tree/master) </b></mark>
+<mark><b> [(Converted C# Version)Progressbar Plus Source Code]: [https://github.com/DwainSnickles/Progbar-Plus/tree/master </b></mark>
 
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/6e9f4aa0-b5b7-4acc-8b50-566d56a6a437)
 
@@ -104,13 +104,13 @@ Progressbar Plus offer both horizontal and vertical operations along with text f
 
 Color Sluder control is a cool
 
-<mark><b> [Slider Control Source Code]: [https://www.mozilla.orghttp://www.reddit.com https://github.com/DwainSnickles/ControlCrop](https://github.com/fabricelacharme/ColorSlider) </b></mark>
+<mark><b> [Slider Control Source Code]: [(https://github.com/fabricelacharme/ColorSlider </b></mark>
 
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/8d8b0084-c8d0-4846-aedc-a4ff25885485)
 
 <a id="theGrouper"></a>
 
-4) <mark><b> [Slider Control Source Code]: [https://www.codeproject.com/Articles/12421/The-Grouper-A-Custom-Groupbox-Control) </b></mark>
+4) <mark><b> [Groupbox Source Code]: [https://www.codeproject.com/Articles/12421/The-Grouper-A-Custom-Groupbox-Control) </b></mark>
 
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/2b7e06a3-dd31-4f36-9c9c-62b54d362c8d)
 
@@ -134,7 +134,7 @@ Color Sluder control is a cool
 
 <a id="ColorPickerControl"></a>
 
-<mark><b> [Color Picker Source Code]: [[[https://www.codeproject.com/articles/34332/color-picker-combo-box-2](https://www.codeproject.com/Articles/21965/Color-Picker-with-Color-Wheel-and-Eye-Dropper))) </b></mark>
+<mark><b> [Color Picker Source Code]: [[[https://www.codeproject.com/articles/34332/color-picker-combo-box-2](https://www.codeproject.com/Articles/21965/Color-Picker-with-Color-Wheel-and-Eye-Dropper) </b></mark>
 
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/5127d328-0a44-4f96-9cc6-69ab54888378)
 
@@ -150,7 +150,7 @@ Color Sluder control is a cool
 
 <a id="CustomPanelControl"></a>
 
-<mark><b> [Text Editor Source Code]: [[[[https://www.codeproject.com/Articles/1191753/A-Full-Featured-Editor-Based-on-the-Richtext-Box-3](https://www.codeproject.com/articles/7641/customising-the-net-panel-control)))) </b></mark>
+<mark><b> [Rounded Panel Source Code]: [[https://www.codeproject.com/Articles/1191753/A-Full-Featured-Editor-Based-on-the-Richtext-Box-3](https://www.codeproject.com/articles/7641/customising-the-net-panel-control) </b></mark>
 
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/9b5b767f-7867-4103-b3c8-dc2ecd9bf7d8)
 
