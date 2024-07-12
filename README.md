@@ -118,7 +118,7 @@ Color Sluder control is a cool
 
 <a id="ToggleSwitch"></a>
 
-<mark><b> [Toggle Switch Source Code]: [[https://www.codeproject.com/Articles/12421/The-Grouper-A-Custom-Groupbox-Control](https://github.com/ejensen/toggle-switch-control)) </b></mark>
+<mark><b> [Toggle Switch Source Code]: [(https://github.com/ejensen/toggle-switch-control) </b></mark>
 
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/c51a732e-ea05-485e-8388-14bc5e003b83)
 
@@ -164,7 +164,7 @@ Color Sluder control is a cool
 
 <a id="GlassButtonControl"></a>
 
-<mark><b> [Text Editor Source Code]: [[[https://www.codeproject.com/articles/18000/enhanced-glassbutton-using-gdi))) </b></mark>
+<mark><b> [Glass Button Source Code]: [https://www.codeproject.com/articles/18000/enhanced-glassbutton-using-gdi </b></mark>
 
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/6d655243-fa99-496d-aa3d-cbc9618f52c0)
 
@@ -172,7 +172,7 @@ Color Sluder control is a cool
 
 <a id="TrackbarControl"></a>
 
-<mark><b> [Text Editor Source Code]: [[[https://www.codeproject.com/Articles/14378/Advanced-TrackBar-Slider-Control-with-MAC-Style-C) </b></mark>
+<mark><b> [Slider Trackbar Source Code]: [https://www.codeproject.com/Articles/14378/Advanced-TrackBar-Slider-Control-with-MAC-Style-C </b></mark>
 
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/adfcd051-97cb-461b-93b5-b0e485042546)
 
