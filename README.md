@@ -150,7 +150,7 @@ Color Sluder control is a cool
 
 <a id="CustomPanelControl"></a>
 
-<mark><b> [Rounded Panel Source Code]: [[https://www.codeproject.com/Articles/1191753/A-Full-Featured-Editor-Based-on-the-Richtext-Box-3](https://www.codeproject.com/articles/7641/customising-the-net-panel-control) </b></mark>
+<mark><b> [Rounded Panel Source Code]: [https://www.codeproject.com/Articles/7641/Customising-the-NET-Panel-Control </b></mark>
 
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/9b5b767f-7867-4103-b3c8-dc2ecd9bf7d8)
 
