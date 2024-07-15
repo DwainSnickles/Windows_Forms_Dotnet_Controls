@@ -45,7 +45,7 @@ To keep this project going with update and future control and would like to dona
 
 Some of these controls have been modified by me to include properties that I thought would improve the original code.
 <a id="CropControl"></a>
-<mark><b> [Crop Control Source Code]: https://www.mozilla.orghttp://www.reddit.com https://github.com/DwainSnickles/ControlCrop </b></mark>
+<mark><b> [Crop Control Source Code]: https://github.com/DwainSnickles/ControlCrop </b></mark>
 1) My cropper Control the idea was to be able to add a crop control from the toolbpox. I was sucessful in adding it to the form but not as a toolbox control. Problem wwas as I found out a control in the toolbox must not contain any parameters in my case I wanted to pass any control. Second problem was I could add the cotrol but it wasnt trasnparent. I,ll be working on that if anyone has any ideas drop me a note.
 2) <mark><b>Screenshot</mark></b>
    
