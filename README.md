@@ -185,6 +185,8 @@ Color Sluder control is a cool
 
 <a id="RibbonControl"></a>
 
+<p>  Windows forms Ribbon is still a little buggy. However its a reall good ribbon control. </p>
+
 <mark><b> [Ribbon Source Code]: [(https://github.com/harborsiem/WindowsRibbon)</b></mark>
 
 <mark><b> [Ribbon Tutorial]: [https://www.codeproject.com/articles/62412/windows-ribbon-for-winforms-part-1-introduction))</b></mark>
