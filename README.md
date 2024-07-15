@@ -43,6 +43,8 @@ To keep this project going with update and future control and would like to dona
 
 <a rel="noopener" target="_blank" href="#TrackbarControl"> 14) Advanced TrackBar (Slider) Control with MAC Style (C# & VB.NET).
 
+<a rel="noopener" target="_blank" href="#RibbonControl"> 15) Win form Ribbon Control.
+
 Some of these controls have been modified by me to include properties that I thought would improve the original code.
 <a id="CropControl"></a>
 <mark><b> [Crop Control Source Code]: https://github.com/DwainSnickles/ControlCrop </b></mark>
@@ -181,7 +183,15 @@ Color Sluder control is a cool
 
 <a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
 
+<a id="RibbonControl"></a>
 
+<mark><b> [Ribbon Source Code]: [[https://www.codeproject.com/Articles/14378/Advanced-TrackBar-Slider-Control-with-MAC-Style-C ](https://github.com/harborsiem/WindowsRibbon)</b></mark>
+
+<mark><b> [Ribbon Tutorial]: [[[https://www.codeproject.com/Articles/14378/Advanced-TrackBar-Slider-Control-with-MAC-Style-C ](https://github.com/harborsiem/WindowsRibbon](https://www.codeproject.com/articles/62412/windows-ribbon-for-winforms-part-1-introduction))</b></mark>
+
+![image](https://github.com/user-attachments/assets/13c0629f-6550-44ba-bb8a-9f04c6733d25)
+
+<a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
 
 <!--
 
