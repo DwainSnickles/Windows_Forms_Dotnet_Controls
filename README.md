@@ -185,9 +185,9 @@ Color Sluder control is a cool
 
 <a id="RibbonControl"></a>
 
-<mark><b> [Ribbon Source Code]: [[https://www.codeproject.com/Articles/14378/Advanced-TrackBar-Slider-Control-with-MAC-Style-C ](https://github.com/harborsiem/WindowsRibbon)</b></mark>
+<mark><b> [Ribbon Source Code]: [(https://github.com/harborsiem/WindowsRibbon)</b></mark>
 
-<mark><b> [Ribbon Tutorial]: [[[https://www.codeproject.com/Articles/14378/Advanced-TrackBar-Slider-Control-with-MAC-Style-C ](https://github.com/harborsiem/WindowsRibbon](https://www.codeproject.com/articles/62412/windows-ribbon-for-winforms-part-1-introduction))</b></mark>
+<mark><b> [Ribbon Tutorial]: [https://www.codeproject.com/articles/62412/windows-ribbon-for-winforms-part-1-introduction))</b></mark>
 
 ![image](https://github.com/user-attachments/assets/13c0629f-6550-44ba-bb8a-9f04c6733d25)
 
