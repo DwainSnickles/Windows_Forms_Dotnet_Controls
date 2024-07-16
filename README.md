@@ -111,7 +111,7 @@ Progressbar Plus offer both horizontal and vertical operations along with text f
 
 <a id="ColorSlderControl"></a>
 
-Color Sliderer control is a cool
+Color Slider control is a cool
 
 <mark><b> [Slider Control Source Code]: [(https://github.com/fabricelacharme/ColorSlider </b></mark>
 
