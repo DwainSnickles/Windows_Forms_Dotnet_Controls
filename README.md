@@ -55,7 +55,7 @@ Some of these controls have been modified by me to include properties that I tho
 
 Usage is simple 
 
-<code>
+<p><code>
 
 Create an instance of the crop class in form
 
@@ -77,7 +77,7 @@ Create an instance of the crop class in form
 
  }
  
- </code>
+ </code></p>
 
 <a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
 
