@@ -76,11 +76,12 @@ Usage is simple
  }</code>
 
 <a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
+
 <a id="KnobControl"></a>
 
-3) Knob Control is a Circular knob with increments fully customizable.
-4) 
-5) <mark><b> [Knob Control Source Code]: [https://www.c-sharpcorner.com/article/knob-control-using-windows-forms-and-gdi/ </b></mark>
+Knob Control is a Circular knob with increments fully customizable.
+
+<mark><b> [Knob Control Source Code]: [https://www.c-sharpcorner.com/article/knob-control-using-windows-forms-and-gdi/ </b></mark>
 
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/5a12fe76-5db4-4fe5-9c2f-0fc3a6ef5535)
 
@@ -98,8 +99,8 @@ Usage is simple
 
 Progressbar Plus offer both horizontal and vertical operations along with text for progress and many extras. This control was written in VB.net and Converted to C# by me. I will post the vbnet link and the converted link here.
 
-<mark><b> [(VB.Net)Progressbar Plus Source Code]: [https://www.mozilla.orghttp://www.reddit.com https://github.com/DwainSnickles/ControlCrop](https://www.codeproject.com/articles/26518/custom-progressbar-control) </b></mark>
-<mark><b> [(Converted C# Version)Progressbar Plus Source Code]: [https://github.com/DwainSnickles/Progbar-Plus/tree/master </b></mark>
+<mark><b> [(VB.Net)Progressbar Plus Source Code]: [(https://www.codeproject.com/articles/26518/custom-progressbar-control) </b></mark>
+<mark><b> [(Converted C# Version)Progressbar Plus Source Code]: [https://github.com/DwainSnickles/Progbar-Plus/tree/master) </b></mark>
 
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/6e9f4aa0-b5b7-4acc-8b50-566d56a6a437)
 
@@ -107,7 +108,7 @@ Progressbar Plus offer both horizontal and vertical operations along with text f
 
 <a id="ColorSlderControl"></a>
 
-Color Sluder control is a cool
+Color Sliderer control is a cool
 
 <mark><b> [Slider Control Source Code]: [(https://github.com/fabricelacharme/ColorSlider </b></mark>
 
