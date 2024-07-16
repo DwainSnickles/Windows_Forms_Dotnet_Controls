@@ -55,7 +55,9 @@ Some of these controls have been modified by me to include properties that I tho
 
 Usage is simple 
 
-<code>Create an instance of the crop class in form
+<code>
+
+Create an instance of the crop class in form
 
  ControlCrop ControlrectPanel;
 
@@ -73,7 +75,9 @@ Usage is simple
      ControlrectPicturebox = new ControlCrop(picCrop);
      ControlrectPicturebox.SetControl(this.picCrop);
 
- }</code>
+ }
+ 
+ </code>
 
 <a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
 
@@ -88,8 +92,7 @@ Knob Control is a Circular knob with increments fully customizable.
 <a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
 
 <a id="XPPanel"></a>
-
-5) <mark><b> [XP Panel Source Code]: [(https://www.codeproject.com/Articles/7332/Full-featured-XP-Style-Collapsible-Panel </b></mark>
+<mark><b> [XP Panel Source Code]: [(https://www.codeproject.com/Articles/7332/Full-featured-XP-Style-Collapsible-Panel </b></mark>
 
 ![image](https://github.com/DwainSnickles/Windows_Forms_Dotnet_Controls/assets/26853477/89970a00-e286-49b6-8055-8f5684df890d)
 
