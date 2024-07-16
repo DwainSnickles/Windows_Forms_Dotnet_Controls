@@ -55,10 +55,9 @@ Some of these controls have been modified by me to include properties that I tho
 
 Usage is simple 
 
-<p><code>
-
-Create an instance of the crop class in form
-
+<code>
+  Create an instance of the crop class in form
+   
  ControlCrop ControlrectPanel;
 
  public frmCrop()
@@ -74,9 +73,7 @@ Create an instance of the crop class in form
      //Set the Control in this case Picturebox to add crop rectangle
      ControlrectPicturebox = new ControlCrop(picCrop);
      ControlrectPicturebox.SetControl(this.picCrop);
-
  }
- 
  </code></p>
 
 <a rel="noopener" target="_blank" href="#Top">Back To Controls</a>
